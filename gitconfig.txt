@@ -1,3 +1,7 @@
+-- Configuração do  Git
 git config --global user.name J0nauta
 git config --global user.email jhonataromao2010@gmail.com
+
+-- Criar um projeto vazio
+npx create-expo-app@latest calculadora --template blank
 
